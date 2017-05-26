@@ -1,0 +1,101 @@
+?State,Senator,Handle,Party,Gender,2017JanAprSent,2017JanAprCount
+Alabama,Richard Shelby,@SenShelby,R,M,0.817258883248731,197
+Alabama,Luther Strange,@lutherstrange,R,M,0.6140350877192983,114
+Alaska,Lisa Murkowski,@lisamurkowski,R,F,0.7525252525252525,198
+Alaska,Dan Sullivan,@SenDanSullivan,R,M,0.7555555555555555,180
+Arizona,John McCain,@SenJohnMcCain,R,M,0.6512455516014235,562
+Arizona,Jeff Flake,@JeffFlake,R,M,0.6837209302325581,215
+Arkansas,Tom Cotton,@SenTomCotton,R,M,0.7696404793608522,751
+Arkansas,John Boozman,@JohnBoozman,R,M,0.822463768115942,276
+California,Dianne Feinstein,@SenFeinstein,D,F,0.43201133144475923,706
+California,Kamala Harris,@SenKamalaHarris,D,F,0.46275395033860045,443
+Colorado,Michael Bennet,@SenBennetCO,D,M,0.4981549815498155,271
+Colorado,Cory Gardner,@SenCoryGardner,R,M,0.7373737373737373,198
+Connecticut,Christopher Murphy,@ChrisMurphyCT,D,M,0.37524752475247525,1010
+Connecticut,Richard Blumenthal,@SenBlumenthal,D,M,0.5595463137996219,529
+Delaware,Tom Carper,@SenatorCarper,D,M,0.5119705340699816,543
+Delaware,Chris Coons,@ChrisCoons,D,M,0.5734824281150159,626
+Florida,Bill Nelson,@SenBillNelson,D,M,0.21428571428571427,14
+Florida,Marco Rubio,@marcorubio,R,M,0.5699481865284974,193
+Georgia,David Perdue,@sendavidperdue,R,M,0.7372881355932204,236
+Georgia,Johnny Isakson,@SenatorIsakson,R,M,0.7161290322580646,310
+Hawaii,Brian Schatz,@brianschatz,D,M,0.38009049773755654,663
+Hawaii,Mazie K. Hirono,@maziehirono,D,F,0.4090909090909091,220
+Idaho,Mike Crapo,@MikeCrapo,R,M,0.8235294117647058,153
+Idaho,Jim Risch,@SenatorRisch,R,M,0.8645833333333334,96
+Illinois,Tammy Duckworth,@SenDuckworth,D,F,0.5615550755939525,463
+Illinois,Dick Durbin,@SenatorDurbin,D,M,0.49097472924187724,831
+Indiana,Joe Donnelly,@SenDonnelly,D,M,0.7910447761194029,335
+Indiana,Todd Young,@SenToddYoung,R,M,0.6536312849162011,179
+Iowa,Chuck Grassley,@ChuckGrassley,R,M,0.5521327014218009,422
+Iowa,Joni Ernst,@joniernst,R,F,0.8484848484848485,33
+Kansas,Pat Roberts,@SenPatRoberts,R,M,0.737885462555066,454
+Kansas,Jerry Moran,@JerryMoran,R,M,0.6733333333333333,150
+Kentucky,Mitch McConnell,@SenateMajLdr,R,M,0.533498759305211,403
+Kentucky,Rand Paul,@RandPaul,R,M,0.4342105263157895,304
+Louisiana,Bill Cassidy,@BillCassidy,R,M,0.6209677419354839,248
+Louisiana,John Neely Kennedy,@JohnKennedyLA,R,M,1.0,1
+Maine,Angus King,@SenAngusKing,I,M,0.6619718309859155,284
+Maine,Susan Collins,@SenatorCollins,R,F,0.7651515151515151,132
+Maryland,Chris Van Hollen,@ChrisVanHollen,D,M,0.42896935933147634,359
+Maryland,Ben Cardin,@SenatorCardin,D,M,0.4269449715370019,527
+Massachusetts,Ed Markey,@senmarkey,D,M,0.5124087591240876,1370
+Massachusetts,Elizabeth Warren,@SenWarren,D,F,0.2895927601809955,442
+Michigan,Gary Peters,@SenGaryPeters,D,M,0.7191780821917808,292
+Michigan,Debbie Stabenow,@SenStabenow,D,F,0.624,250
+Minnesota,Amy Klobuchar,@amyklobuchar,D,F,0.6142557651991615,477
+Minnesota,Al Franken,@SenFranken,D,M,0.5542168674698795,830
+Mississippi,Thad Cochran,@SenThadCochran,R,M,0.8703703703703703,108
+Mississippi,Roger Wicker,@SenatorWicker,R,M,0.6226415094339622,159
+Missouri,Claire McCaskill,@clairecmc,D,F,0.455026455026455,189
+Missouri,Roy Blunt,@RoyBlunt,R,M,0.7146814404432132,361
+Montana,Steve Daines,@SteveDaines,R,M,0.7153284671532847,548
+Montana,Jon Tester,@SenatorTester,D,M,0.6476190476190476,525
+Nebraska,Deb Fischer,@SenatorFischer,R,F,0.739454094292804,403
+Nebraska,Ben Sasse,@SenSasse,R,M,0.5205479452054794,73
+Nevada,Catherine Cortez Masto,@CatherineForNV,D,F,0.7058823529411765,17
+Nevada,Dean Heller,@SenDeanHeller,R,M,0.5844594594594594,296
+New Hampshire,Jeanne Shaheen,@SenatorShaheen,D,F,0.49404761904761907,336
+New Hampshire,Maggie Hassan,@SenatorHassan,D,F,0.5936555891238671,662
+New Jersey,Cory Booker,@CoryBooker,D,M,0.6047197640117994,1356
+New Jersey,Bob Menendez,@SenatorMenendez,D,M,0.3933649289099526,422
+New Mexico,Martin Heinrich,@MartinHeinrich,D,M,0.493167701863354,805
+New Mexico,Tom Udall,@SenatorTomUdall,D,M,0.42857142857142855,546
+New York,Chuck Schumer,@SenSchumer,D,M,0.42961876832844575,1364
+New York,Kirsten Gillibrand,@SenGillibrand,D,F,0.477797513321492,563
+North Carolina,Richard Burr,@SenatorBurr,R,M,0.6303030303030303,165
+North Carolina,Thom Tillis,@SenThomTillis,R,M,0.6642599277978339,277
+North Dakota,Heidi Heitkamp,@SenatorHeitkamp,D,F,0.6079470198675496,755
+North Dakota,John Hoeven,@SenJohnHoeven,R,M,0.7677725118483413,211
+Ohio,Sherrod Brown,@SenSherrodBrown,D,M,0.5346534653465347,303
+Ohio,Rob Portman,@senrobportman,R,M,0.5477178423236515,1205
+Oklahoma,Jim Inhofe,@JimInhofe,R,M,0.6956521739130435,92
+Oklahoma,James Lankford,@SenatorLankford,R,M,0.5741758241758241,364
+Oregon,Ron Wyden,@RonWyden,D,M,0.42021276595744683,564
+Oregon,Jeff Merkley,@SenJeffMerkley,D,M,0.4967532467532468,924
+Pennsylvania,Bob Casey  Jr.,@SenBobCasey,D,M,0.4174174174174174,1332
+Pennsylvania,Pat Toomey,@SenToomey,R,M,0.6190476190476191,126
+Rhode Island,Jack Reed,@SenJackReed,D,M,0.6280701754385964,285
+Rhode Island,Sheldon Whitehouse,@SenWhitehouse,D,M,0.5695538057742782,762
+South Carolina,Lindsey Graham,@LindseyGrahamSC,R,M,0.6129629629629629,540
+South Carolina,Tim Scott,@SenatorTimScott,R,M,0.6781002638522428,379
+South Dakota,Mike Rounds,@SenatorRounds,R,M,0.7355072463768116,276
+South Dakota,John Thune,@SenJohnThune,R,M,0.721030042918455,233
+Tennessee,Lamar Alexander,@SenAlexander,R,M,0.6575342465753424,365
+Tennessee,Bob Corker,@SenBobCorker,R,M,0.7784810126582279,316
+Texas,John Cornyn,@JohnCornyn,R,M,0.6218560277536861,1153
+Texas,Ted Cruz,@SenTedCruz,R,M,0.694019471488178,719
+Utah,Orrin Hatch,@SenOrrinHatch,R,M,0.6307692307692307,975
+Utah,Mike Lee,@SenMikeLee,R,M,0.6396396396396397,111
+Vermont,Patrick Leahy,@SenatorLeahy,D,M,0.5565610859728507,884
+Vermont,Bernie Sanders,@SenSanders,I,M,0.3341176470588235,850
+Virginia,Tim Kaine,@timkaine,D,M,0.5586034912718204,401
+Virginia,Mark Warner,@MarkWarner,D,M,0.5104602510460251,239
+Washington,Patty Murray,@PattyMurray,D,F,0.38507109004739337,844
+Washington,Maria Cantwell,@SenatorCantwell,D,F,0.47229916897506924,722
+West Virginia,Shelley Moore Capito,@SenCapito,R,F,0.7421383647798742,477
+West Virginia,Joe Manchin,@Sen_JoeManchin,D,M,0.6703296703296703,182
+Wisconsin,Tammy Baldwin,@SenatorBaldwin,D,F,0.5952380952380952,1008
+Wisconsin,Ron Johnson,@SenRonJohnson,R,M,0.6904761904761905,294
+Wyoming,Mike Enzi,@SenatorEnzi,R,M,0.6623376623376623,231
+Wyoming,John Barrasso,@SenJohnBarrasso,R,M,0.8024691358024691,81
